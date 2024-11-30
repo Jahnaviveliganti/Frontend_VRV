@@ -67,8 +67,8 @@ Installation and Setup
 
 ### Step-by-Step Setup
 
-1\. git clone https://github.com/Manav2031/VRV-Security-Intern-Assignment.git  
-cd VRV-Security-Intern-Assignment
+1\. git clone https://github.com/Jahnaviveliganti/Frontend_VRV.git  
+cd Fronted_VRV
 
 2\. cd server
 
